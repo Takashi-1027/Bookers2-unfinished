@@ -1,3 +1,5 @@
+作成途中で分からなくなったから一旦保留　20210219
+
 # README
 
 This README would normally document whatever steps are necessary to get the
